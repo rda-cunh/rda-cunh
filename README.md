@@ -6,7 +6,7 @@
 
 ## 👨‍💼 About Me
 
-I'm Ricardo, an experienced project manager with a solid background in delivering strategic initiatives in public administration and entrepreneurship. My career has been shaped by leading teams to success through effective communication and innovative problem-solving. Passionate about technology, I started learning to code at [School 42 Porto](https://www.42porto.com/) since 2023. This journey has been both challenging and rewarding, fueling my drive to integrate cutting-edge solutions into project management and empower teams for the digital age.
+I'm Ricardo, an experienced project manager with a solid background in delivering strategic initiatives in public administration and entrepreneurship. My career has been shaped by leading teams to success through effective communication and innovative problem-solving. Passionate about technology, I started learning to code at [42 Porto](https://www.42porto.com/) since 2023. This journey has been both challenging and rewarding, fueling my drive to integrate cutting-edge solutions into project management and empower teams for the digital age.
 
 ---
 
